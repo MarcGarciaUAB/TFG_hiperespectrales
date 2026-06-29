@@ -15,7 +15,7 @@ Para facilitar el análisis de esta compleja información, se ha desarrollado un
 El código y la documentación del proyecto están organizados de forma modular. A continuación, puedes acceder directamente a cada una de las secciones principales:
 
 ### [1. Informes](./informes/)
-Contiene toda la documentación técnica y académica generada durante el desarrollo del Trabajo de Fin de Grado.
+Contiene toda la documentación técnica y académica generada durante el desarrollo del Trabajo de Fin de Grado, incluida una lista de cambios en la que se detallan las distintas modificaciones realizadas en los informes.
 
 ### [2. Frontend](./frontend/)
 Directorio que alberga el código fuente de la aplicación del lado del cliente hecho en Flutter (interfaz de usuario).
